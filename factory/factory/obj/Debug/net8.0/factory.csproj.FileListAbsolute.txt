@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\factory\factory\bin\Debug\net8.0\factory.exe
+C:\Users\ariya rayaneh\source\repos\factory\factory\bin\Debug\net8.0\factory.deps.json
+C:\Users\ariya rayaneh\source\repos\factory\factory\bin\Debug\net8.0\factory.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\factory\factory\bin\Debug\net8.0\factory.dll
+C:\Users\ariya rayaneh\source\repos\factory\factory\bin\Debug\net8.0\factory.pdb
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.dll
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\refint\factory.dll
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.pdb
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\factory.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\factory\factory\obj\Debug\net8.0\ref\factory.dll
